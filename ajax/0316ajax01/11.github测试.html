@@ -8,5 +8,18 @@
 </head>
 <body>
     <h3>我是一个H3标签</h3>
+    <ul style="list-style: none;">
+
+    </ul>
 </body>
+<script>
+    let oUl = document.querySelector("ul");
+     let colorBox = ["red","yellow","blue","green"]
+     let str = "";
+     colorBox.forEach((e,i)=>{
+         
+         str += `<li style = "background-color:${e}">${i}<li>` 
+     })
+     oUl.innerHTML += str
+</script>
 </html>
