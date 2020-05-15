@@ -1,2 +1,3 @@
-# webbbb
-let bbb = 000000
+let aaa = 1111;
+let bbb = 000000;
+console.log(aaa+bbb)
