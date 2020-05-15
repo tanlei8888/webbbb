@@ -7,4 +7,4 @@ let obj = {
     "name":"大大大"，
     "age":26
 }
-
+let arr=[1,2,3,4,5]
