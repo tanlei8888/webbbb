@@ -3,3 +3,8 @@ let bbb = 000000;
 console.log(aaa+bbb)
 let ccc = 6666
 console.log(ccc)
+let obj = {
+  "name":"tanlei",
+  "age":23
+}
+
